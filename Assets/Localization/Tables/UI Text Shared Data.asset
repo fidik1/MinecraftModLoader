@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 5283b4bceb8ddd94899d30cc744eec1b
+  m_Entries:
+  - m_Id: 9005395968
+    m_Key: Mods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353135456256
+    m_Key: ShaderMod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720669732864
+    m_Key: Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2377075879936
+    m_Key: Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947945820160
+    m_Key: Politika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189336403968
+    m_Key: PrivacyPolicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92858724085760
+    m_Key: Install
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109441513123840
+    m_Key: OpenMod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109572274745344
+    m_Key: RateUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122215823798272
+    m_Key: InstructionDescription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6829957724206530638
+  references:
+    version: 2
+    RefIds:
+    - rid: 6829957724206530638
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1684340237938

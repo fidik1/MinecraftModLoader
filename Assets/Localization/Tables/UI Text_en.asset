@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5283b4bceb8ddd94899d30cc744eec1b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9005395968
+    m_Localized: Mods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353135456256
+    m_Localized: Shader Mod Realistic Minecraft - ultra shaders for realistic game
+      in our MCPE app
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720669732864
+    m_Localized: Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2377075879936
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947945820160
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189336403968
+    m_Localized: "politikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitikapolitika\u043C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92858724085760
+    m_Localized: Install
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109441513123840
+    m_Localized: OPEN MOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109572274745344
+    m_Localized: RATE US
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122215823798272
+    m_Localized: here there and ok
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
