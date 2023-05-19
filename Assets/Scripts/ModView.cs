@@ -49,11 +49,14 @@ public class ModView : MonoBehaviour
     private void SetDescription()
     {
         _description.text = LocalizationSettings.StringDatabase.GetLocalizedString(_mod.DescriptionID);
+        _description.ForceMeshUpdate();
+        _description.rectTransform.sizeDelta = new(_description.rectTransform.sizeDelta.x, _description.bounds.size.y);
+        _description.transform.localPosition = new(0, -_description.rectTransform.sizeDelta.y / 2);
     }
 
     public void Interact()
     {
-        _screenController.OpenScreen(5);
+        _screenController.OpenScreen(WindowIdentifier.ModLoader);
         Interacted?.Invoke(_mod);
     }
 }

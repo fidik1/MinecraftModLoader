@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd65ea95327db4f439ee54531b4f6010, type: 3}
+  m_Name: Mod2
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Mutant Wolves
+  <Icon>k__BackingField: {fileID: 21300000, guid: 09fcf96dc49d13249bffb8d9f23206fe, type: 3}
+  <ScreenShots>k__BackingField:
+  - {fileID: 21300000, guid: 79ba5e1b2348d01479f68f8152ba70d9, type: 3}
+  - {fileID: 21300000, guid: 8f030333a841fc0438b29163d4652aa1, type: 3}
+  - {fileID: 21300000, guid: 322d87f2046631c43aaa3d1cc105b905, type: 3}
+  - {fileID: 21300000, guid: 0cabaf84e3ddcdb459180a9c9847a967, type: 3}
+  <DescriptionID>k__BackingField: Mod2

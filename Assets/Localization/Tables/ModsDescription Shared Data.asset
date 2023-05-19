@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: Mod1
     m_Metadata:
       m_Items: []
+  - m_Id: 27687553036288
+    m_Key: Mod2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148605918998528
+    m_Key: Mod3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148635799220224
+    m_Key: Mod4
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

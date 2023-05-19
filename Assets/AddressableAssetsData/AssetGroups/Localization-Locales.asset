@@ -17,21 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 9daf18c36c3b4e447988c9f6b7a59d4e
   m_SerializeEntries:
-  - m_GUID: d8a711cde22dead43bae318f8497b44b
-    m_Address: English (en)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-  - m_GUID: 9cadb5b8f72507646b401d3543b91d3a
-    m_Address: Russian (ru)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-  - m_GUID: f33d130002310224ba66be89adfd5f50
-    m_Address: Ukrainian (uk)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
   - m_GUID: 9451eec714214ed448752256c7e14133
     m_Address: English (en)
     m_ReadOnly: 1
